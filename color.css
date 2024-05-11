@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+}
+
+#colorDisplay {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+#message {
+    margin: 20px 0;
+    font-size: 1.5em;
+}
+
+.option {
+    width: 30%;
+    padding-bottom: 30%;
+    display: inline-block;
+    margin: 1.66%;
+    cursor: pointer;
+}
+
+.container {
+    margin-top: 20px;
+}
